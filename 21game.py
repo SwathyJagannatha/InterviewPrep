@@ -141,4 +141,4 @@ while game == True:
             elif nex == "no":
                 print ("Continuing...")
             else:
-                print ("Wrong choice")
+                print ("Wrong choice provided")
