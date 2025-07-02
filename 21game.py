@@ -1,4 +1,4 @@
-# Python code to play 21 Number game
+# Python program to play 21 Number game 
 
 # returns the nearest multiple to 4
 def nearestMultiple(num):
